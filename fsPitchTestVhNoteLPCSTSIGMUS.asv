@@ -2,7 +2,7 @@
 %    and vocal tract shape visualizer
 %    with interactive spectrum tilt manipulation
 
-%    Copyright (c) by Hideki Kawahara 2021
+%    Copy
 
 aaa = audiodevinfo;
 nAudioIn = audiodevinfo(1);
